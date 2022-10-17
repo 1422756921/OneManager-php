@@ -2,6 +2,8 @@
 <font color="red">change login page, default not '?admin' but '?login=admin' now! and if set adminloginpage, it will be '?login=[value]'.</font> rm JumpFirstDisk, 403 in operating root, change sorting disk, remake disktags tab, add global md config. Allow Preview when enable downloadencrypt. some change in adding Onedrive disk. show upload progress in table background. fix some bugs.
 <font color="red">更改登录地址，默认不再是'?admin'而是'?login=admin'，如果设置了adminloginpage，那登录地址会是'?login=值'。</font>移除 JumpFirstDisk，在root操作时返回403，更改盘排序，重做盘符排列，添加全局md配置。在开启downloadencrypt后可以网页预览了。添加onedrive盘时稍做修改。上传时以背景做进度条。修复其它bug。
 
+
+
 20211220-1100.42
 Add new platform Replit. Add a git source for update. sha1.js use jsdelivr cdn. fix some bugs.
 新增Replit平台。新增国内git源，以后国内可以选择从HIT源更新。sha1.js换成jsdelivr CDN。修复bug。
